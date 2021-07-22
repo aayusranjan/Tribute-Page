@@ -1,2 +1,3 @@
 # Tribute-Page
-The tribute page of [Dr. APJ Abdul Kalam](git@github.com:aayusranjan/Tribute-Page.git)
+The tribute page of Dr. APJ Abdul Kalam
+click [here](https://aayusranjan.github.io/Tribute-Page/) to see the live page
